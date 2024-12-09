@@ -1,1 +1,2 @@
 Los lenguajes que conozco son Java, JavaScript, Phyton, Cobol y Php.
+He utilizado algunos frameworks como Laravel, Angular y Django.

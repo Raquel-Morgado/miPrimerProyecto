@@ -1,1 +1,2 @@
 1. Dominar el desarrollo de aplicaciones web tanto en el frontend como en el backend
+2. Mejorar las habilidades en integración de APIs y servicios externos

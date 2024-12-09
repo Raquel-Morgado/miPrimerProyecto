@@ -1,0 +1,1 @@
+1. Dominar el desarrollo de aplicaciones web tanto en el frontend como en el backend
